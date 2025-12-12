@@ -1,4 +1,11 @@
+ibis-framework
+duckdb
 pandas
+numpy
 seaborn
-ibis-framework[duckdb]
-nbval
+pystac-client
+odc-stac
+rioxarray
+exactextract
+leafmap
+
