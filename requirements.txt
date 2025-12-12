@@ -8,4 +8,5 @@ odc-stac
 rioxarray
 exactextract
 leafmap
-
+pytest
+nbval
