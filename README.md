@@ -5,7 +5,7 @@
 
 ## Team Members
 
-🦸
+🦸 Luis F. Lupercio
 🦹
 
 ## Description
